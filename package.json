@@ -16,7 +16,7 @@
     "MongoDB"
   ],
   "author": "Mohammad Aldada",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.40.0",
